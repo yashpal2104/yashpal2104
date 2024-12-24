@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashpal2104)
 
+![Metrics](https://github.com/yashpal2104/metrics/blob/main/metrics.svg)
+
+
 
 ## 📫 How to Reach Me
 - [LinkedIn]([https://linkedin.com/in/yashpal2104](https://www.linkedin.com/in/yash-pal-88621224b/))
