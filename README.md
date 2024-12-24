@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpal2104&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-[![Yash WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashpal2104)](https://github.com/yashpal2104/github-readme-stats)
 
 ![Metrics](/github-metrics.svg)
 
