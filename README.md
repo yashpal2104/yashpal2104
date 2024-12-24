@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Yash WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashpal2104)](https://github.com/yashpal2104/github-readme-stats)
 
-![Metrics](https://github.com/yashpal2104/metrics/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 
 
