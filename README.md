@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpal2104)](https://github.com/yashpal2104/github-readme-stats)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashpal2104)
+
+
+## 📫 How to Reach Me
+- [LinkedIn]([https://linkedin.com/in/yashpal2104](https://www.linkedin.com/in/yash-pal-88621224b/))
+- [Twitter][(https://twitter.com/yashtwtss)](https://x.com/yashtwtss)
+
