@@ -1,31 +1,26 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily to update metrics
+  workflow_dispatch:  # Allows manual triggering
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '16'
-
       - name: Install dependencies
         run: npm ci
-
       - name: Generate metrics
         run: npm run generate
-
-      - name: Commit metrics (or create pull request)
+      - name: Upload generated metrics image
         uses: actions/upload-artifact@v2
         with:
           name: metrics-image
           path: metrics.svg
-          
-          
-      - name: Handle output action
-        run: |
-          # This is where you specify how the image should be handled
-        with:
-          output_action: pull  # or 'gist' or 'none'
-          github_token: ${{ secrets.METRICS_TOKEN }}  # Make sure to pass the token
