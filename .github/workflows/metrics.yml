@@ -22,5 +22,5 @@ jobs:
       - name: Upload generated metrics image
         uses: actions/upload-artifact@v2
         with:
-          name: metrics-image
-          path: metrics.svg
+          name: github-metrics-image
+          path: github-metrics.svg
