@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 
 ![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpal2104&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+<a href="https://github.com/yashpal2104/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yashpal2104&theme=radical" />
+</a>
+<a href="https://github.com/yashpal2104/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpal2104&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+
 
 ![Metrics](/github-metrics.svg)
 
