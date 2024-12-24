@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpal2104&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpal2104&show_icons=true&theme=radical)
 
