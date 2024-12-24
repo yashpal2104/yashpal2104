@@ -1,10 +1,3 @@
-name: Generate Metrics
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:  # Manual trigger
-
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -23,13 +16,15 @@ jobs:
       - name: Generate metrics
         run: npm run generate
 
-      - name: Create Pull Request with metrics
+      - name: Commit metrics (or create pull request)
         uses: actions/upload-artifact@v2
         with:
           name: metrics-image
           path: metrics.svg
-
+          
       - name: Handle output action
+        run: |
+          # This is where you specify how the image should be handled
         with:
-          output_action: pull  # Creates a pull request with the generated metrics
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Ensure the GitHub token is available
+          output_action: pull  # or 'gist' or 'none'
+          github_token: ${{ secrets.METRICS_TOKEN }}  # Make sure to pass the token
