@@ -21,6 +21,15 @@ jobs:
         with:
           name: metrics-image
           path: metrics.svg
+
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
           
       - name: Handle output action
         run: |
