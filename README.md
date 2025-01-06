@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to Reach Me
-- [LinkedIn][(https://linkedin.com/in/yashpal2104)](https://www.linkedin.com/in/yash-pal-88621224b/)
-- [Twitter][(https://twitter.com/yashtwtss)](https://x.com/yashtwtss)
+- [LinkedIn](https://www.linkedin.com/in/yash-pal-88621224b/)
+- [Twitter](https://x.com/yashtwtss)
+
+- <a href=”https://www.linkedin.com/in/yash-pal-88621224b/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yash | LinkedIn” width=”21px”/></a>
 
