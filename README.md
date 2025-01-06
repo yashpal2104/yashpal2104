@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to Reach Me
-- [Twitter](https://x.com/yashtwtss)
 
  <a href="https://www.linkedin.com/in/yash-pal-88621224b/">
  <img align=”left” src=images/linkedin.png alt=”Yash | LinkedIn” width=”21px” height="21px" /></a>
