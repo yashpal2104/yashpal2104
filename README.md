@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I an Yash
 
 <!--
 **yashpal2104/yashpal2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpal2104&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+
+
 #WakaTime Stats
 <figure><embed src="https://wakatime.com/share/@yashpal2104/e8c32f30-6736-4c3d-8827-c0fc5dcf7c66.svg"></embed></figure>
 
@@ -33,8 +35,16 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/yash-pal-88621224b/)
 - [Twitter](https://x.com/yashtwtss)
 
-- <a href=”https://www.linkedin.com/in/yash-pal-88621224b/"><img align=”left” src=”images/linkedin.png" alt=”Yash | LinkedIn” width=”21px”/></a>
+ <a href="https://www.linkedin.com/in/yash-pal-88621224b/">
+ <img align=”left” src=images/linkedin.png alt=”Yash | LinkedIn” width=”21px” height="21px" /></a>
+ <a href="https://x.com/yashtwtss">
+ <img align=”left” src=images/twitter.svg alt=”Yash | Twitter” width=”21px” height="21px" /></a>
+  <a href="https://www.instagram.com/iam_yaaash/">
+ <img align=”left” src=images/instagram.png alt=”Yash | Instagram” width=”21px” height="21px" /></a>
+
+ 
+
+
 
