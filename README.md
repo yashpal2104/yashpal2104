@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 #WakaTime Stats
-<figure><embed src="https://wakatime.com/share/@yashpal2104/2caa7f23-dd8b-4f96-a87c-ef926ed711ff.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@yashpal2104/e8c32f30-6736-4c3d-8827-c0fc5dcf7c66.svg"></embed></figure>
 
 ![Metrics](/github-metrics.svg)
 
