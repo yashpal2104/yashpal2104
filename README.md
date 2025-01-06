@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/yash-pal-88621224b/)
 - [Twitter](https://x.com/yashtwtss)
 
-- <a href=”https://www.linkedin.com/in/yash-pal-88621224b/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yash | LinkedIn” width=”21px”/></a>
+- <a href=”https://www.linkedin.com/in/yash-pal-88621224b/"><img align=”left” src=”images/linkedin.png" alt=”Yash | LinkedIn” width=”21px”/></a>
 
