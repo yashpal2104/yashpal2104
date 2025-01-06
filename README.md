@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpal2104&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+#WakaTime Stats
+<figure><embed src="https://wakatime.com/share/@74fc445b-8686-48f0-9bcb-ac9b04cac237/c049b1af-6cfd-4f18-9f79-dc5f576d275f.svg"></embed></figure>
 
 ![Metrics](/github-metrics.svg)
 
